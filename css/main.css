@@ -6,6 +6,8 @@ main {
   flex-direction: column;
   margin-top: 50px;
   margin-right: 70px;
+  font-size: xx-large;
+  font-weight: bolder;
 }
 
 .board-row {
